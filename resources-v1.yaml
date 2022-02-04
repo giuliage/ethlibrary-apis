@@ -4,7 +4,7 @@ info:
   description: |-
     Over 30 million books, images, series, journals and other materials from the ETH Library discovery portal. 
 
-     [Swagger UI (OAS3)](https://apiplatform-apidoc.web.app/resources/)
+    &#x279C; [OAS 3 Swagger Documentation](https://apiplatform-apidoc.web.app/resources/)
   version: '1.0'
   termsOfService: https://developer.library.ethz.ch/terms
   contact:
