@@ -16,7 +16,7 @@ info:
     name: Bibliographic metadata that are not specifically marked are free for general use (Public Domain).
 servers:
   - url: https://api.library.ethz.ch/resources/
-    description: Production server
+    description: Production
 paths:
   /search:
     get:
