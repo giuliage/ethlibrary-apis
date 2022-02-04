@@ -1,10 +1,10 @@
 openapi: 3.0.2
 info:
-  title: ETH Library API - Resources
+  title: ETH Library API Resources
   description: |-
-    Resources from ETH @ swisscovery search portal 
+    Over 30 million books, images, series, journals and other materials from the ETH Library discovery portal. 
 
-     [Download Specs](https://github.com/giuliage/ethlibrary-apis/raw/main/v1/resources-oas3.json)
+     [Swagger UI (OAS3)](https://apiplatform-apidoc.web.app/resources/)
   version: '1.0'
   termsOfService: https://developer.library.ethz.ch/terms
   contact:
