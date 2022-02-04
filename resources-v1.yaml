@@ -27,7 +27,7 @@ paths:
         portal](https://eth.swisscovery.slsp.ch) 
 
 
-         **Examples for big data collections**
+         **Examples for large data collections**
 
          [All resources of Hochschularchiv](https://api.library.ethz.ch/resources/search?q=any,contains,"*"&limit=100&qInclude=facet_data_source,exact,ETH_Hochschularchiv)
 
